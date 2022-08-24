@@ -1,0 +1,3 @@
+--GRANT select ON ${flyway:database}.* TO 'javier'@'%';
+--GRANT select ON ${flyway:database}.* TO 'nelson'@'%';
+--GRANT select ON ${flyway:database}.* TO 'abel'@'%';
